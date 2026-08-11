@@ -1,10 +1,7 @@
 name: Update leaderboard
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'reports/**'
+  workflow_dispatch:
 
 jobs:
   rebuild:
