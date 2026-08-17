@@ -1,0 +1,14 @@
+{
+  "id": "throttlestop",
+  "name": "ThrottleStop",
+  "version": "1.0",
+  "description": "\u8FD9\u662Fthrottlestop ",
+  "category": "\u5904\u7406\u5668\u5DE5\u5177",
+  "publisher": null,
+  "tags": [],
+  "launchTarget": "ThrottleStop.exe",
+  "author": "luolangaga",
+  "submittedAt": "2026-08-17T17:02:50.5167239\u002B00:00",
+  "homepage": null,
+  "file": "ThrottleStop_9.7.3.zip"
+}
